@@ -1,0 +1,19 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\NARENDRA\Desktop\Hardware_projects\HARDWARE+ANALOG ELECTRONICS\RESISTORS\resistor.net
+Start Time: Tue Jul  7 14:20:03 2026
+
+.step r2val=10000
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+
+.step r2val=15000
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.202 seconds.
+
+Files loaded:
+C:\Users\NARENDRA\Desktop\Hardware_projects\HARDWARE+ANALOG ELECTRONICS\RESISTORS\resistor.net
+
